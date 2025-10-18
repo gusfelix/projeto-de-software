@@ -49,6 +49,8 @@
 
 ## Diagramas UML
 
+Modelagens do sistema
+
 ---
 
 ### Diagrama de Caso de Uso
@@ -71,8 +73,9 @@
 
 ---
 
-### 🖥️ Diagrama de Implantação
+### Diagrama de Implantação
 <img src="images/diagrama-de-implantacao.png" width="700px" alt="Diagrama de Implantação"/>
+
 
 
 
